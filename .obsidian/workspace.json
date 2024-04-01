@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "695fe67dbd8d815a",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.google.com.hk/search?q=notion"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "算法刷题📝/算法记录.md"
+              }
             }
           },
           {
@@ -89,6 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "算法刷题📝/算法记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "算法刷题📝/算法记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +122,7 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "695fe67dbd8d815a",
+  "active": "dfef3a2e3e4bc18c",
   "lastOpenFiles": [
     "算法刷题📝/算法记录.md",
     "Pasted image 20240401223803.png",
