@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "695fe67dbd8d815a",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.google.com.hk/search?q=notion"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "算法刷题📝/算法记录.md"
-              }
+              "state": {}
             }
           },
           {
@@ -80,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法刷题📝/算法记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法刷题📝/算法记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,10 +129,10 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "dfef3a2e3e4bc18c",
+  "active": "695fe67dbd8d815a",
   "lastOpenFiles": [
-    "Pasted image 20240401223803.png",
     "算法刷题📝/算法记录.md",
+    "Pasted image 20240401223803.png",
     "Pasted image 20240401210852.png",
     "Readme.md",
     "Attachment/Copilot/Chat-2023_10_06-17_54_13.md",
