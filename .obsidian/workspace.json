@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2f6bb57d91d4f5c2",
+        "id": "d4108f8f47301939",
         "type": "tabs",
         "children": [
           {
-            "id": "05143bac95a1869a",
+            "id": "ffb603d140b5e39e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法刷题📝/算法记录.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,9 +65,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "算法刷题📝/算法记录.md"
-              }
+              "state": {}
             }
           },
           {
@@ -80,7 +74,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法刷题📝/算法记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法刷题📝/算法记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,10 +114,10 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "05143bac95a1869a",
+  "active": "ffb603d140b5e39e",
   "lastOpenFiles": [
-    "�,�.md",
     "算法刷题📝/算法记录.md",
+    "�,�.md",
     "Pasted image 20240401223803.png",
     "Pasted image 20240401210852.png",
     "Readme.md",
