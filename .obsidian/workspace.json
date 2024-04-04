@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法刷题📝/算法记录.md",
-                "mode": "preview",
+                "file": "项目记录-AI推理引擎/未命名.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法刷题📝/算法记录.md"
+                "file": "项目记录-AI推理引擎/未命名.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法刷题📝/算法记录.md",
+                "file": "项目记录-AI推理引擎/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法刷题📝/算法记录.md",
+                "file": "项目记录-AI推理引擎/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +125,8 @@
   "active": "00cbea4e35a99c7a",
   "lastOpenFiles": [
     "算法刷题📝/算法记录.md",
+    "项目记录-AI推理引擎/未命名.md",
+    "项目记录-AI推理引擎",
     "�,�.md",
     "Pasted image 20240401223803.png",
     "Pasted image 20240401210852.png",
@@ -152,7 +154,6 @@
     "Plugins/Excalidraw/Fonts",
     "Plugins/Excalidraw/fonts",
     "Plugins/Excalidraw/未命名文件夹",
-    "Plugins/Excalidraw/Library/architecture-diagram-components.excalidrawlib",
     "A.md",
     "是的风格.md",
     "2.md",
