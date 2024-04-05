@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "4847b22a05ce3268",
@@ -122,7 +123,7 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "e34587b1f895d1af",
+  "active": "00cbea4e35a99c7a",
   "lastOpenFiles": [
     "项目记录-AI推理引擎/Tiny engine.md",
     "算法刷题📝/算法记录.md",
