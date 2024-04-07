@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "438d4d35a41154ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目记录-mlibc/C标准库读书笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "4847b22a05ce3268",
@@ -70,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目记录-mlibc/总结.md"
+                "file": "项目记录-mlibc/C标准库读书笔记.md"
               }
             }
           },
@@ -80,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目记录-mlibc/总结.md",
+                "file": "项目记录-mlibc/C标准库读书笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目记录-mlibc/总结.md",
+                "file": "项目记录-mlibc/C标准库读书笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,10 +136,11 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "00cbea4e35a99c7a",
+  "active": "438d4d35a41154ab",
   "lastOpenFiles": [
-    "项目记录-AI推理引擎/Tiny engine.md",
     "项目记录-mlibc/总结.md",
+    "项目记录-mlibc/C标准库读书笔记.md",
+    "项目记录-AI推理引擎/Tiny engine.md",
     "算法刷题📝/算法记录.md",
     "项目记录-AI推理引擎",
     "�,�.md",
@@ -145,7 +160,6 @@
     "Attachment/Copilot/Chat-2023_09_17-19_52_26.md",
     "Copilot-conversations/Chat-2023_09_17-19_51_05.md",
     "Copilot-conversations",
-    "未命名.md",
     "github使用指南.md",
     "Source",
     "Attachment/Excalidraw/2023-09-17.excalidraw.md",
