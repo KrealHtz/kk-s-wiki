@@ -9,3 +9,6 @@
 头文件的实现：
 1.幂等性
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202404072100160.png)
+
+---
+## 0x 00 assert.h
