@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法刷题📝/算法记录.md",
+                "file": "项目记录-mlibc/调研.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "4847b22a05ce3268",
@@ -71,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法刷题📝/算法记录.md"
+                "file": "项目记录-mlibc/调研.md"
               }
             }
           },
@@ -81,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法刷题📝/算法记录.md",
+                "file": "项目记录-mlibc/调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法刷题📝/算法记录.md",
+                "file": "项目记录-mlibc/调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +125,7 @@
   "active": "00cbea4e35a99c7a",
   "lastOpenFiles": [
     "项目记录-AI推理引擎/Tiny engine.md",
+    "项目记录-mlibc/调研.md",
     "算法刷题📝/算法记录.md",
     "项目记录-AI推理引擎",
     "�,�.md",
