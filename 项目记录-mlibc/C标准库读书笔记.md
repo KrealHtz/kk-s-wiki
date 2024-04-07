@@ -8,3 +8,4 @@
 库中的每个可见函数都占据着单独的c源文件。例如strlen就在strlen.c中。
 头文件的实现：
 1.幂等性
+![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202404072100160.png)
