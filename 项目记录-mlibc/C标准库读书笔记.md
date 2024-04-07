@@ -3,6 +3,6 @@
 #include <stdio.h>
 #include "plot.h"
 ```
-
-编程风格：
-1.库
+---
+`编程风格：`
+1.库中的每个可见函数都占据着单独的c源文件。例如strlen
