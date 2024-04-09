@@ -21,7 +21,7 @@ MCUNetV2表明不均衡的内存分布是在CNN网络设计里面的最主要的
 流行的训练框架有：**PyTorch, TensorFlow, MXNet,** and **JAX**。不过这些框架都依赖于主机的语言，例如python和各种各样的runtime systems 。很明显用在边缘端设备上是没有必要也不兼容的  
 也有例如 **TVM，TF-Lite , MNN, NCNN, TensorRT,** and **OpenVino** 这些可以用在在手机端的框架，但是这些框架在IoT设备上也是不适应的。  
 也有很多提出支持ARM Cortex-M等MCU的框架，例如CMSIS-NN，X-Cube-AI, CMix-NN， TinyEngine， TF-Lite Micro （第一个支持在bare-metal控制器上面运行的框架）等等
-## MCUNet
+## MCU-Net
 MCUNet：一种基于系统-算法协同设计框架，用于神经网络在MCU上的部署，它结合了神经网络架构优化（TinyNAS）和推理调度（TinyEngine）。
 - **传统的神经网络架构搜索（NAS）**：在已有的深度学习库上搜索神经网络模型。这种方法首先使用NAS找到一个神经网络模型，然后在某个深度学习库（如TensorFlow或PyTorch）上实现这个模型。
 - **调整深度学习库给定的神经网络模型**：针对一个已有的神经网络模型，调整深度学习库以达到更优的推理速度。这里，已有的模型和库之间的关系是相互调整和优化的。
