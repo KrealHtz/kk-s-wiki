@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef6866f73f64aa82",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,9 +79,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "项目记录-AI推理引擎/论文阅读 MCU-net.md"
-              }
+              "state": {}
             }
           },
           {
@@ -81,7 +88,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目记录-AI推理引擎/论文阅读 MCU-net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目记录-AI推理引擎/论文阅读 MCU-net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,11 +128,11 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "e6fe3d856e0faae4",
+  "active": "ef6866f73f64aa82",
   "lastOpenFiles": [
+    "项目记录-AI推理引擎/论文阅读 MCU-net.md",
     "项目记录-mlibc/总结.md",
     "项目记录-mlibc/C标准库读书笔记.md",
-    "项目记录-AI推理引擎/论文阅读 MCU-net.md",
     "算法刷题📝/算法记录.md",
     "项目记录-AI推理引擎",
     "�,�.md",
