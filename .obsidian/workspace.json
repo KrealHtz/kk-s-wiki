@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ad1ac8eacaeb656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法刷题📝/蓝桥杯板子.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目记录-AI推理引擎/论文阅读 MCU-net.md"
+                "file": "算法刷题📝/蓝桥杯板子.md"
               }
             }
           },
@@ -80,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目记录-AI推理引擎/论文阅读 MCU-net.md",
+                "file": "算法刷题📝/蓝桥杯板子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目记录-AI推理引擎/论文阅读 MCU-net.md",
+                "file": "算法刷题📝/蓝桥杯板子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,12 +135,14 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "2a75e41aff92863c",
+  "active": "8ad1ac8eacaeb656",
   "lastOpenFiles": [
+    "项目记录-AI推理引擎/论文阅读 MCU-net.md",
+    "算法刷题📝/蓝桥杯板子.md",
+    "算法刷题📝/算法记录.md",
+    "未命名",
     "项目记录-mlibc/C标准库读书笔记.md",
     "项目记录-mlibc/总结.md",
-    "算法刷题📝/算法记录.md",
-    "项目记录-AI推理引擎/论文阅读 MCU-net.md",
     "项目记录-AI推理引擎",
     "�,�.md",
     "Pasted image 20240401223803.png",
@@ -154,7 +169,6 @@
     "Plugins/Excalidraw/Fonts/Muyao-Softbrush-2.ttf",
     "Plugins/Excalidraw/Fonts",
     "Plugins/Excalidraw/fonts",
-    "Plugins/Excalidraw/未命名文件夹",
     "A.md",
     "是的风格.md",
     "2.md",
