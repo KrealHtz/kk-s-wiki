@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目记录-mlibc/C标准库读书笔记.md",
+                "file": "项目记录-mlibc/总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目记录-mlibc/C标准库读书笔记.md"
+                "file": "项目记录-mlibc/总结.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目记录-mlibc/C标准库读书笔记.md",
+                "file": "项目记录-mlibc/总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目记录-mlibc/C标准库读书笔记.md",
+                "file": "项目记录-mlibc/总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,11 +124,11 @@
   },
   "active": "8ad1ac8eacaeb656",
   "lastOpenFiles": [
+    "项目记录-mlibc/C标准库读书笔记.md",
     "项目记录-mlibc/总结.md",
     "算法刷题📝/算法记录.md",
     "算法刷题📝/蓝桥杯板子.md",
     "项目记录-AI推理引擎/论文阅读 MCU-net.md",
-    "项目记录-mlibc/C标准库读书笔记.md",
     "未命名",
     "项目记录-AI推理引擎",
     "�,�.md",
