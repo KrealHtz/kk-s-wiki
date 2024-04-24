@@ -8,8 +8,6 @@
 
 `tutorial` contains the demo tutorial (of inference and training) of deploying a visual wake words (VWW) model onto microcontrollers.
 
-  
-
 `assets` contains misc assets.
 
 
