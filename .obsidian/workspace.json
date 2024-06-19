@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "885d44d923d9037d",
+        "id": "6b64384217b78722",
         "type": "tabs",
         "children": [
           {
-            "id": "0709740eed46f7f4",
+            "id": "4fbe8a1acfa9cf7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法刷题📝/蓝桥杯板子.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,9 +65,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "算法刷题📝/蓝桥杯板子.md"
-              }
+              "state": {}
             }
           },
           {
@@ -80,7 +74,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法刷题📝/蓝桥杯板子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法刷题📝/蓝桥杯板子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +114,15 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "0709740eed46f7f4",
+  "active": "4fbe8a1acfa9cf7a",
   "lastOpenFiles": [
+    "算法刷题📝/蓝桥杯板子.md",
     "算法刷题📝/算法记录.md",
     "项目记录-AI推理引擎/论文阅读 MCU-net.md",
     "项目记录-AI推理引擎/市面各家厂商AI推理引擎调研.md",
     "项目记录-AI推理引擎/Tinyengine 代码分析.md",
     "项目记录-mlibc/总结.md",
     "项目记录-mlibc/C标准库读书笔记.md",
-    "算法刷题📝/蓝桥杯板子.md",
     "未命名",
     "项目记录-AI推理引擎",
     "�,�.md",
