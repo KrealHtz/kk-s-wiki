@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59851348fcb99727",
+        "id": "25cc524c674b0fc7",
         "type": "tabs",
         "children": [
           {
-            "id": "e241ec0a71c41e5a",
+            "id": "c38a882d20511743",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -114,7 +114,7 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "e241ec0a71c41e5a",
+  "active": "c38a882d20511743",
   "lastOpenFiles": [
     "算法刷题📝/蓝桥杯板子.md",
     "算法刷题📝/算法记录.md",
