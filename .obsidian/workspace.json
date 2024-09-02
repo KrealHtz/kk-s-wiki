@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1bf706862947383",
+        "id": "73afc79b1c6105ae",
         "type": "tabs",
         "children": [
           {
-            "id": "85352c2aa6ce19b9",
+            "id": "d6541450bca3e775",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -114,7 +114,7 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "85352c2aa6ce19b9",
+  "active": "d6541450bca3e775",
   "lastOpenFiles": [
     "项目记录-AI推理引擎/论文阅读 MCU-net.md",
     "项目记录-AI推理引擎/市面各家厂商AI推理引擎调研.md",
