@@ -11,8 +11,12 @@
             "id": "d6541450bca3e775",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ARM学习/ARM学习.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ARM学习/ARM学习.md"
+              }
             }
           },
           {
@@ -74,6 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ARM学习/ARM学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ARM学习/ARM学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +122,9 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "e34587b1f895d1af",
+  "active": "d6541450bca3e775",
   "lastOpenFiles": [
+    "ARM学习/ARM学习.md",
     "ARM学习",
     "项目记录-AI推理引擎/论文阅读 MCU-net.md",
     "项目记录-AI推理引擎/市面各家厂商AI推理引擎调研.md",
