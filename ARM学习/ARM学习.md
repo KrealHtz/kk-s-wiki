@@ -7,4 +7,8 @@
 
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202410102243245.png)
 
+![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202410102258691.png)
+
+
+
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202410102246109.png)
