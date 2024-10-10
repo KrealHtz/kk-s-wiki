@@ -4,3 +4,5 @@
 
 
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202410102239620.png)
+
+![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202410102243245.png)
