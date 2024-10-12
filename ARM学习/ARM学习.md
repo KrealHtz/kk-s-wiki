@@ -1,7 +1,7 @@
 ## ARM64异常处理
 在ARM v8体系结构中，异常和中断都属于异常处理。
 ### 异常类型
-`中断`分为
+`中断`分为普通中断请求（Interrupt Request IRQ）,和快速中断请求（Fast Interrupt REquest,）
 
 
 ### AArch64 的中断和异常处理
