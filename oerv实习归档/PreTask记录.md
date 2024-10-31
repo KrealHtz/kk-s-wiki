@@ -1,6 +1,10 @@
 ## 任务一：通过 QEMU 仿真 RISC-V 环境并启动 openEuler RISC-V 系统，设法输出 neofetch 结果并截图提交
 在进行之前的任务的时候已经安装了qemu，所以这里就直接从neofetch安装开始：
-使用命令
+直接使用命令安装
+```
+dnf install neofetch
+```
+之后进行测试输入neofetch输出结果如下图
 ![image-20241029141324241](file:///Users/kkhtz/Library/Application%20Support/typora-user-images/image-20241029141324241.png?lastModify=1730374164)
 
 ## 任务二
