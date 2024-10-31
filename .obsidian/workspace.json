@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oerv实习归档/PreTask记录.md",
+                "file": "oerv实习归档/obs学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oerv实习归档/PreTask记录.md"
+                "file": "oerv实习归档/obs学习.md"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oerv实习归档/PreTask记录.md",
+                "file": "oerv实习归档/obs学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oerv实习归档/PreTask记录.md",
+                "file": "oerv实习归档/obs学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,8 +137,9 @@
   },
   "active": "28fcfaf2be9b9722",
   "lastOpenFiles": [
-    "ARM学习/ARM学习.md",
     "oerv实习归档/PreTask记录.md",
+    "oerv实习归档/obs学习.md",
+    "ARM学习/ARM学习.md",
     "oerv实习归档",
     "ARM学习",
     "项目记录-AI推理引擎/论文阅读 MCU-net.md",
@@ -175,7 +176,6 @@
     "Plugins/Excalidraw/Fonts",
     "A.md",
     "是的风格.md",
-    "2.md",
-    "1.md"
+    "2.md"
   ]
 }
