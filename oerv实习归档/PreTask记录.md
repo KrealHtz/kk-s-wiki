@@ -1,6 +1,6 @@
 ## 任务一
 - 任务一：通过 QEMU 仿真 RISC-V 环境并启动 openEuler RISC-V 系统，设法输出 neofetch 结果并截图提交
-
+在进行之前的任务的
 ![image-20241029141324241](file:///Users/kkhtz/Library/Application%20Support/typora-user-images/image-20241029141324241.png?lastModify=1730374164)
 
 ## 任务二
