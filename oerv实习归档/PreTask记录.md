@@ -26,7 +26,9 @@ pass=xxxxxx
 ```
 安装配置工作完成之后，就可以开始构建了。
 ```
-
+# 首先通过命令将obs平台上的分支拉下来
+osc co openEuler:Mainline/pcre2
+# 然后
 ```
 
 
