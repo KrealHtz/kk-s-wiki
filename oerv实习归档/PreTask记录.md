@@ -24,8 +24,9 @@ no_verify = 1
 user=kkhtz
 pass=xxxxxx
 ```
-
-
+安装配置工作完成之后，就可以开始构建了。
+```
+```
 
 
 
