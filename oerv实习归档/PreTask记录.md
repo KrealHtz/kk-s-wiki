@@ -35,7 +35,7 @@ rm -f _service;for file in `ls`;do new_file=${file##*:};mv $file $new_file;done
 osc build standard_riscv64_gcc riscv64
 
 ```
-⚠️upload failed, check dev console
+![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411011517168.png)
 
 
 
