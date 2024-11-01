@@ -30,6 +30,9 @@ pass=xxxxxx
 osc co openEuler:Mainline/pcre2
 # 然后将远程包和其他相关文件一起拉下来
 osc up -S # pcre2目录下
+rm -f _service;for file in `ls`;do new_file=${file##*:};mv $file $new_file;done
+# 开始构建rpm包
+osc build standard_riscv64 riscv64
 
 ```
 
