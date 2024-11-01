@@ -33,7 +33,6 @@ osc up -S # pcre2目录下
 rm -f _service;for file in `ls`;do new_file=${file##*:};mv $file $new_file;done
 # 开始构建rpm包
 osc build standard_riscv64_gcc riscv64
-
 ```
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411011517168.png)
 
