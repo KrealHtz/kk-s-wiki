@@ -13,7 +13,17 @@ dnf install neofetch
 --- 
 **什么是obs？** Open Build Service（OBS）是一种用于构建、发布和维护软件包的开源工具，广泛应用于Linux系统的分发和软件打包。它由SUSE公司开发，旨在简化软件包的创建和管理，并支持多种Linux发行版（如openSUSE、Fedora、Debian等）和架构（如x86_64、ARM、PowerPC等）。OBS通过集中式的构建系统，允许开发者在一个平台上为多个目标系统生成软件包，便于跨平台软件的发布和维护。
 
-注册obs账号之后，使用`dnf install osc build`安装osc命令行之后修改
+注册obs账号之后，使用`dnf install osc build`安装osc命令行之后修改~/.config/osc/oscrc
+
+```cobol
+[general]
+apiurl = https://build.tarsier-infra.isrc.ac.cn/
+no_verify = 1
+ 
+[https://https://build.tarsier-infra.isrc.ac.cn/]
+user=kkhtz
+pass=xxxxxx
+```
 
 
 
