@@ -44,3 +44,4 @@ osc build standard_riscv64_gcc riscv64
 - 安装osc
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411021256588.png)
 	在后续的折腾中发现由于使用的是macos，在本机直接构建存在的问题太多了，遂考虑使用docker完成
+也发现了之前有同学使用macos进行
