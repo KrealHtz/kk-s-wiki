@@ -42,3 +42,4 @@ osc build standard_riscv64_gcc riscv64
 首先尝试使用qemu user & nspawn加速完成
 - 安装qemu
 - 安装osc
+![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411021256588.png)
