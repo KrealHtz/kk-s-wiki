@@ -39,3 +39,7 @@ osc build standard_riscv64_gcc riscv64
 参考
 [# oerv-pretask（二）在 openEuler RISC-V 系统上通过 obs 命令行工具 osc，从源代码构建 RISC-V 版本的 rpm 包，比如 coreutils](https://blog.csdn.net/weixin_52230326/article/details/135311782)
 ## 任务三：尝试使用 qemu user & nspawn 或者 docker 加速完成任务二
+- 首先尝试使用qemu user & nspawn加速完成
+```
+安装qemu
+```
