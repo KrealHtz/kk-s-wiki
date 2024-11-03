@@ -49,4 +49,6 @@ osc build standard_riscv64_gcc riscv64
 vm-type = nspawn时报错
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411031513381.png)
 这些问题好像是因为arm芯片的原因？找了好久都没找到解决办法。遂翻出笔记本老老实实在x86上做。
-重新完成前面三个任务。使用
+重新完成前面三个任务。使用fedora完成。
+任务务一：
+![Uploading file...2v8tq]()
