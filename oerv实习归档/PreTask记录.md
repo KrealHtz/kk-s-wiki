@@ -43,11 +43,8 @@ osc build standard_riscv64_gcc riscv64
 - 安装qemu
 - 安装osc
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411021256588.png)
-	在后续的折腾中发现由于使用的是macos，在本机直接构建存在的问题太多了，遂考虑使用docker完成
-也发现了之前有同学使用macos进行任务时踩到的很多坑[# 实习生唐文荟+创建邮箱](https://github.com/openeuler-riscv/oerv-team/pull/271)
-
-在fedora上构建任务三时 vm_type = chroot
+	在后续的折腾中发现由于使用的是macos，在本机直接构建存在的问题太多了，遂考虑在电脑上搭建虚拟机完成，也发现了之前有同学使用macos进行任务时踩到的很多坑[# 实习生唐文荟+创建邮箱](https://github.com/openeuler-riscv/oerv-team/pull/271)
+但是在fedora上构建任务三时 vm_type = chroot时报错
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411031512222.png)
-
-vm_type = nspawn
+vm-type = nspawn时报错
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411031513381.png)
