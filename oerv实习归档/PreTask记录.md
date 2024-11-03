@@ -50,11 +50,13 @@ vm-type = nspawn时报错
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411031513381.png)
 这些问题好像是因为arm芯片的原因？找了好久都没找到解决办法。遂翻出笔记本老老实实在x86上做。
 重新完成前面三个任务。使用fedora完成。
-任务务一：
-![Uploading file...drxcg]()
+任务一：
+![6f51ed234f88b055f5dba311b969211b.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411032321421.png)
 
 
 任务二：
 ![4e4777f6715ec82bf5b67dcdc220b1c1.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411032320821.png)
 
 任务三：
+
+![8c8fd1c9fa6371a9745508b6d08f1797.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411032321788.png)
