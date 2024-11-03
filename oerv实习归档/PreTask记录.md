@@ -60,3 +60,4 @@ vm-type = nspawn时报错
 任务三：
 
 ![8c8fd1c9fa6371a9745508b6d08f1797.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411032321788.png)
+最后比较在任务二和任务三构建完成的时间，发现
