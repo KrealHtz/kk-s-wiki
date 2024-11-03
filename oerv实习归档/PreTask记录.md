@@ -58,6 +58,12 @@ vm-type = nspawn时报错
 ![4e4777f6715ec82bf5b67dcdc220b1c1.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411032320821.png)
 
 任务三：
-
+```
+osc co openEuler:Mainline/jsoncpp
+cd openEuler:Mainline/jsoncpp
+osc up -S jsoncpp
+rm -f _service;for file in `ls`;do new_file=${file##*:};mv $file $new_file;done
+osc build --local-package standard_riscv64 riscv64 --vm-type=nspawn
+```
 ![8c8fd1c9fa6371a9745508b6d08f1797.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411032321788.png)
 最后比较在任务二和任务三构建完成的时间，发现
