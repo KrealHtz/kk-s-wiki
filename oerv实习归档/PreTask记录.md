@@ -48,3 +48,4 @@ osc build standard_riscv64_gcc riscv64
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411031512222.png)
 vm-type = nspawn时报错
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411031513381.png)
+这些问题好像是因为arm芯片
