@@ -68,3 +68,6 @@ osc build --local-package standard_riscv64_gcc riscv64 --vm-type=nspawn
 ![8c8fd1c9fa6371a9745508b6d08f1797.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411032321788.png)
 
 最后比较在任务二和任务三构建完成的时间，发现构建时间从2892s加速到了434s。
+
+## 总结
+折腾了很多，也遇到了一些问题，有的问题还没有找到原因，下来
