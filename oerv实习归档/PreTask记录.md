@@ -47,5 +47,6 @@ osc build standard_riscv64_gcc riscv64
 也发现了之前有同学使用macos进行任务时踩到的很多坑[# 实习生唐文荟+创建邮箱](https://github.com/openeuler-riscv/oerv-team/pull/271)
 
 在fedora上构建任务三时 vm_type = chroot
-![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411031508084.png)
+![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411031512222.png)
 
+vm_type = 
