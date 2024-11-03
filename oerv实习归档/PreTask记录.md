@@ -49,4 +49,5 @@ osc build standard_riscv64_gcc riscv64
 在fedora上构建任务三时 vm_type = chroot
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411031512222.png)
 
-vm_type = 
+vm_type = nspawn
+![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411031513381.png)
