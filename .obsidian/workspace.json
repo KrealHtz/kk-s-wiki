@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oerv实习归档/PreTask记录.md",
+                "file": "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oerv实习归档/PreTask记录.md"
+                "file": "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oerv实习归档/PreTask记录.md",
+                "file": "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oerv实习归档/PreTask记录.md",
+                "file": "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,12 +135,13 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "e34587b1f895d1af",
+  "active": "28fcfaf2be9b9722",
   "lastOpenFiles": [
+    "oerv实习归档/PreTask记录.md",
+    "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md",
     "未命名",
     "SEL4系列论文阅读",
     "oerv实习归档/obs学习.md",
-    "oerv实习归档/PreTask记录.md",
     "ARM学习/ARM学习.md",
     "oerv实习归档",
     "ARM学习",
@@ -174,7 +175,6 @@
     "Attachment/Excalidraw/2023-09-17.excalidraw.md",
     "Plugins/Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Plugins/Excalidraw/Scripts/Downloaded",
-    "Plugins/Excalidraw/Fonts/Muyao-Softbrush-2.ttf",
     "A.md",
     "是的风格.md"
   ]
