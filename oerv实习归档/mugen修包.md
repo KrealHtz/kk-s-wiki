@@ -5,4 +5,4 @@
 
 
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411212036406.png)
-	co
+从报错日志可以看出缺少pki-tools软件包
