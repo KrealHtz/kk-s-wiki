@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cafc37d78b0f80f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "oerv实习归档/mugen修包.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md"
+                "file": "oerv实习归档/mugen修包.md"
               }
             }
           },
@@ -93,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md",
+                "file": "oerv实习归档/mugen修包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md",
+                "file": "oerv实习归档/mugen修包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,10 +147,11 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "28fcfaf2be9b9722",
+  "active": "cafc37d78b0f80f6",
   "lastOpenFiles": [
-    "oerv实习归档/PreTask记录.md",
     "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md",
+    "oerv实习归档/mugen修包.md",
+    "oerv实习归档/PreTask记录.md",
     "未命名",
     "SEL4系列论文阅读",
     "oerv实习归档/obs学习.md",
@@ -175,7 +188,6 @@
     "Attachment/Excalidraw/2023-09-17.excalidraw.md",
     "Plugins/Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Plugins/Excalidraw/Scripts/Downloaded",
-    "A.md",
-    "是的风格.md"
+    "A.md"
   ]
 }
