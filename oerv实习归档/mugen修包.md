@@ -28,7 +28,7 @@ qemu-system-riscv64
 [https://repo.tarsier-infra.isrc.ac.cn/openEuler-RISC-V/testing/20240826/v0.1/QEMU/](https://gitee.com/link?target=https%3A%2F%2Frepo.tarsier-infra.isrc.ac.cn%2FopenEuler-RISC-V%2Ftesting%2F20240826%2Fv0.1%2FQEMU%2F)
 
 【问题复现步骤】  
-在运行mugen测试套tensorflow时测试无法通过  
+在运行mugen测试套pki-core时测试无法通过  
 ![输入图片说明](https://foruda.gitee.com/images/1726302818407595975/0feaee39_10273636.png "屏幕截图")  
 ![输入图片说明](https://foruda.gitee.com/images/1726302832449202600/05b63907_10273636.png "屏幕截图")
 
