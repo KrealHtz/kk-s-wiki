@@ -6,7 +6,7 @@
 
 ![image.png](https://raw.githubusercontent.com/KrealHtz/NoteImage/master/data/202411212036406.png)
 从报错日志可以看出缺少pki-tools软件包
-issue: []https://gitee.com/openeuler/RISC-V/issues/IB6720
+issue: [ [LLVM平行宇宙24.09] 缺少pki-tools软件包]https://gitee.com/openeuler/RISC-V/issues/IB6720
 
 
 
