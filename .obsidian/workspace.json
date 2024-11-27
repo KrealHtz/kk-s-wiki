@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "73afc79b1c6105ae",
+        "id": "1d36d923be7e15a1",
         "type": "tabs",
         "children": [
           {
-            "id": "d6541450bca3e775",
+            "id": "9ae2ac3697aacc19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARM学习/ARM学习.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28fcfaf2be9b9722",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cafc37d78b0f80f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "oerv实习归档/mugen修包.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,9 +65,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "oerv实习归档/mugen修包.md"
-              }
+              "state": {}
             }
           },
           {
@@ -105,7 +74,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oerv实习归档/mugen修包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oerv实习归档/mugen修包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,15 +114,15 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "cafc37d78b0f80f6",
+  "active": "9ae2ac3697aacc19",
   "lastOpenFiles": [
     "oerv实习归档/mugen修包.md",
+    "ARM学习/ARM学习.md",
     "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md",
     "oerv实习归档/PreTask记录.md",
     "未命名",
     "SEL4系列论文阅读",
     "oerv实习归档/obs学习.md",
-    "ARM学习/ARM学习.md",
     "oerv实习归档",
     "ARM学习",
     "项目记录-AI推理引擎/论文阅读 MCU-net.md",
