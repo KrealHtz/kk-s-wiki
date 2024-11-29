@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oerv实习归档/mugen修包.md",
+                "file": "项目记录-mlibc/C标准库读书笔记.md",
                 "mode": "preview",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oerv实习归档/mugen修包.md"
+                "file": "项目记录-mlibc/C标准库读书笔记.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oerv实习归档/mugen修包.md",
+                "file": "项目记录-mlibc/C标准库读书笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oerv实习归档/mugen修包.md",
+                "file": "项目记录-mlibc/C标准库读书笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,8 @@
   },
   "active": "9ae2ac3697aacc19",
   "lastOpenFiles": [
-    "oerv实习归档/PreTask记录.md",
     "oerv实习归档/mugen修包.md",
+    "oerv实习归档/PreTask记录.md",
     "oerv实习归档/obs学习.md",
     "项目记录-AI推理引擎/市面各家厂商AI推理引擎调研.md",
     "ARM学习/ARM学习.md",
