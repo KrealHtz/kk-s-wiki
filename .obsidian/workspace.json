@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "面试准备.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -125,8 +125,8 @@
   "active": "9ae2ac3697aacc19",
   "lastOpenFiles": [
     "嵌入式八股文.md",
-    "oerv实习归档/PreTask记录.md",
     "面试准备.md",
+    "oerv实习归档/PreTask记录.md",
     "oerv实习归档/mugen修包.md",
     "oerv实习归档/obs学习.md",
     "项目记录-mlibc/C标准库读书笔记.md",
