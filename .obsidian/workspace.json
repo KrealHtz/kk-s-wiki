@@ -11,8 +11,12 @@
             "id": "96d0adf285e9ce57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "面试记录.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "面试记录.md"
+              }
             }
           },
           {
@@ -74,6 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "面试记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "面试记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
