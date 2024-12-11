@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1d36d923be7e15a1",
+        "id": "1dc448d928689395",
         "type": "tabs",
         "children": [
           {
-            "id": "9ae2ac3697aacc19",
+            "id": "96d0adf285e9ce57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面试准备.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "255456da5b108661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "oerv实习归档/mugen修包.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1803c1263a402c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面试记录.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,9 +65,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "面试记录.md"
-              }
+              "state": {}
             }
           },
           {
@@ -105,7 +74,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,12 +114,12 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "1803c1263a402c1c",
+  "active": "96d0adf285e9ce57",
   "lastOpenFiles": [
     "面试准备.md",
+    "oerv实习归档/mugen修包.md",
     "面试记录.md",
     "微内核上实现容器.md",
-    "oerv实习归档/mugen修包.md",
     "oerv实习归档/obs学习.md",
     "oerv实习归档/PreTask记录.md",
     "嵌入式八股文.md",
