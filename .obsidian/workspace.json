@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96d0adf285e9ce57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面试找实习/面试记录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "49e5d25cd31f9584",
             "type": "leaf",
             "state": {
@@ -83,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试找实习/面试记录.md"
+                "file": "WCET.md"
               }
             }
           },
@@ -93,7 +81,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试找实习/面试记录.md",
+                "file": "WCET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试找实习/面试记录.md",
+                "file": "WCET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,10 +123,10 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "96d0adf285e9ce57",
+  "active": "49e5d25cd31f9584",
   "lastOpenFiles": [
-    "WCET.md",
     "面试找实习/面试记录.md",
+    "WCET.md",
     "面试找实习",
     "WCET学习",
     "面试找实习/面试准备.md",
