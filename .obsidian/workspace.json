@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式linux学习.md"
+                "file": "WCET.md"
               }
             }
           },
@@ -94,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式linux学习.md",
+                "file": "WCET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式linux学习.md",
+                "file": "WCET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,10 +135,10 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "ea42dcda09debdc4",
+  "active": "49e5d25cd31f9584",
   "lastOpenFiles": [
-    "WCET.md",
     "嵌入式linux学习.md",
+    "WCET.md",
     "面试找实习/面试记录.md",
     "面试找实习",
     "WCET学习",
