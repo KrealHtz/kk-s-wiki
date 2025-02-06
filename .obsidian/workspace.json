@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WCET.md",
+                "file": "嵌入式linux学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb19546daccd5b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开题规划.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "4847b22a05ce3268",
@@ -83,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WCET.md"
+                "file": "开题规划.md"
               }
             }
           },
@@ -93,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WCET.md",
+                "file": "开题规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WCET.md",
+                "file": "开题规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,10 +147,11 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "49e5d25cd31f9584",
+  "active": "eb19546daccd5b54",
   "lastOpenFiles": [
     "嵌入式linux学习.md",
-    "WCET.md",
+    "开题规划.md",
+    "WCET学习/WCET.md",
     "面试找实习/面试记录.md",
     "面试找实习",
     "WCET学习",
@@ -171,7 +184,6 @@
     "Plugins/Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "Plugins/Excalidraw/Scripts/Downloaded/Slideshow.md",
     "().md",
-    "Attachment/Excalidraw/2023-09-28.excalidraw.md",
     "Attachment/Excalidraw",
     "Plugins/Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Copilot-conversations",
