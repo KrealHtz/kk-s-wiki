@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cinos源码分析.md",
+                "file": "面试找实习/嵌入式八股文.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba147d26c7abef53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "暑期实习记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "4847b22a05ce3268",
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cinos源码分析.md"
+                "file": "暑期实习记录.md"
               }
             }
           },
@@ -118,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cinos源码分析.md",
+                "file": "暑期实习记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cinos源码分析.md",
+                "file": "暑期实习记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,18 +171,19 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "3de042e39a512954",
+  "active": "ba147d26c7abef53",
   "lastOpenFiles": [
-    "开题规划.md",
+    "面试找实习/嵌入式八股文.md",
+    "暑期实习记录.md",
+    "面试找实习/微内核上实现容器.md",
+    "面试找实习/面试准备.md",
+    "面试找实习/面试记录.md",
     "cinos源码分析.md",
+    "开题规划.md",
     "嵌入式linux学习.md",
     "WCET学习/WCET.md",
-    "面试找实习/面试记录.md",
     "面试找实习",
     "WCET学习",
-    "面试找实习/面试准备.md",
-    "面试找实习/嵌入式八股文.md",
-    "面试找实习/微内核上实现容器.md",
     "oerv实习归档/mugen修包.md",
     "oerv实习归档/obs学习.md",
     "oerv实习归档/PreTask记录.md",
@@ -196,7 +208,6 @@
     "Attachment/Copilot",
     "Attachment/Excalidraw/2023-10-06.excalidraw.md",
     "Plugins/Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "Plugins/Excalidraw/Scripts/Downloaded/Slideshow.md",
     "Attachment/Excalidraw",
     "Plugins/Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Copilot-conversations",
