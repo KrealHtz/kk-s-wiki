@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试找实习/嵌入式八股文.md",
+                "file": "开题规划.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试找实习/嵌入式八股文.md"
+                "file": "开题规划.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试找实习/嵌入式八股文.md",
+                "file": "开题规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试找实习/嵌入式八股文.md",
+                "file": "开题规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,14 +161,14 @@
   },
   "active": "3de042e39a512954",
   "lastOpenFiles": [
-    "暑期实习记录.md",
+    "嵌入式linux学习.md",
     "面试找实习/嵌入式八股文.md",
+    "暑期实习记录.md",
     "面试找实习/微内核上实现容器.md",
     "面试找实习/面试准备.md",
     "面试找实习/面试记录.md",
     "cinos源码分析.md",
     "开题规划.md",
-    "嵌入式linux学习.md",
     "WCET学习/WCET.md",
     "面试找实习",
     "WCET学习",
