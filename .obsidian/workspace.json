@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式linux学习.md",
+                "file": "开题规划.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式linux学习.md"
+                "file": "开题规划.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式linux学习.md",
+                "file": "开题规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式linux学习.md",
+                "file": "开题规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,31 +124,31 @@
   },
   "active": "ea42dcda09debdc4",
   "lastOpenFiles": [
+    "WCET学习/WCET.md",
+    "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md",
+    "oerv实习归档/PreTask记录.md",
+    "oerv实习归档/obs学习.md",
+    "oerv实习归档/mugen修包.md",
+    "ARM学习/ARM学习.md",
+    "项目记录-AI推理引擎/市面各家厂商AI推理引擎调研.md",
+    "项目记录-AI推理引擎/Tinyengine 代码分析.md",
+    "项目记录-AI推理引擎/论文阅读 MCU-net.md",
+    "算法刷题📝/算法记录.md",
+    "算法刷题📝/蓝桥杯板子.md",
+    "面试找实习/微内核上实现容器.md",
+    "面试找实习/嵌入式八股文.md",
+    "面试找实习/面试准备.md",
+    "面试找实习/面试记录.md",
+    "嵌入式linux学习.md",
     "开题规划.md",
     "暑期实习记录.md",
     "cinos源码分析.md",
-    "面试找实习/面试记录.md",
-    "面试找实习/面试准备.md",
-    "面试找实习/微内核上实现容器.md",
-    "面试找实习/嵌入式八股文.md",
-    "嵌入式linux学习.md",
-    "WCET学习/WCET.md",
     "面试找实习",
     "WCET学习",
-    "oerv实习归档/mugen修包.md",
-    "oerv实习归档/obs学习.md",
-    "oerv实习归档/PreTask记录.md",
     "项目记录-mlibc/C标准库读书笔记.md",
-    "项目记录-AI推理引擎/市面各家厂商AI推理引擎调研.md",
-    "ARM学习/ARM学习.md",
-    "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md",
     "SEL4系列论文阅读",
     "oerv实习归档",
     "ARM学习",
-    "项目记录-AI推理引擎/论文阅读 MCU-net.md",
-    "项目记录-AI推理引擎/Tinyengine 代码分析.md",
-    "算法刷题📝/蓝桥杯板子.md",
-    "算法刷题📝/算法记录.md",
     "项目记录-mlibc/总结.md",
     "项目记录-AI推理引擎",
     "�,�.md",
