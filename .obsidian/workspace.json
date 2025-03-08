@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开题规划.md",
+                "file": "暑期实习记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开题规划.md"
+                "file": "暑期实习记录.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开题规划.md",
+                "file": "暑期实习记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开题规划.md",
+                "file": "暑期实习记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,8 @@
   },
   "active": "ea42dcda09debdc4",
   "lastOpenFiles": [
+    "cinos源码分析.md",
+    "开题规划.md",
     "WCET学习/WCET.md",
     "SEL4系列论文阅读/Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.md",
     "oerv实习归档/PreTask记录.md",
@@ -140,9 +142,7 @@
     "面试找实习/面试准备.md",
     "面试找实习/面试记录.md",
     "嵌入式linux学习.md",
-    "开题规划.md",
     "暑期实习记录.md",
-    "cinos源码分析.md",
     "面试找实习",
     "WCET学习",
     "项目记录-mlibc/C标准库读书笔记.md",
